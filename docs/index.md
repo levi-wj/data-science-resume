@@ -12,14 +12,14 @@ title: Levi Jones' Resumé
 </div>
 
 ## Education
-B.S. Computer Science | Brigham Young University - Idaho | Rexburg, Idaho September 2021 - May 2025
+B.S. Computer Science | Brigham Young University - Idaho | Rexburg, Idaho | September 2021 - May 2025
 * GPA: 3.89
 * Machine Learning/AI focus
 * Music Minor (Jazz Piano)
 
 ## Related Experience
 
-Software Engineer | Medical Informatics Engineering | Fort Wayne, Indiana June 2019 - Present
+Software Engineer | Medical Informatics Engineering | Fort Wayne, Indiana | June 2019 - Present
 * Managed and optimized large MySQL databases for clients with over 100,000 charts
 * Designed and developed a medical appointment scheduler from scratch, simplifying daily tasks for physicians
 * Communicated face-to-face with clients, managing expectations for technical projects
